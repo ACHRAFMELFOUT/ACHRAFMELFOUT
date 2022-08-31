@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <meta charset="UTF-8">
+	  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+	  <link rel="stylesheet" href="style.css">
+	  <title>ETAF</title>
+	  </head>
+	  <body>
+	  
+	       <header>
+		   <a href="#" class="logo"> <img src="gd.png" width="100px"/></a>
+		   <nav class="navigation">
+		   <a href="#services">Services</a>
+		   <a href="#projects">Produit</a>
+		   <a href="#contact">Contact</a>
+		   
+		   
+		   </nav>
+		   
+		   
+		   
+		   </header>
+		 
+		     
+			
+	  
+	  <section class="main">
+	  <div>
+	  <img src="ETAF23.PNG"/>
+	 <h2>Hello,I m Melfout<br><span>entreprise ETAF</span></h2>
+	  <h3>La gamme d’aciers la plus complète au Maroc</h3>
+	   <video width="500px" controls  autoplay muted loop poster="ETAF23.PNG">
+		<source src="vidieo.mp4" type="video/mp4">
+		</video>
+	  <a href="file:///C:/Users/Hp/Desktop/web/website.html#projects" class="main-btn">View my Produit </a>
+	  <div class="social-icons">
+	  
+	  <a href="https://www.instagram.com/achraf1742/"><i class="fa-brands fa-instagram"></i></a>
+	  <a href="#"><i class="fa-brands fa-twitter"></i></a>
+	  <a href="#"> <i class="fa-brands fa-youtube"></i></a>
+	   <a href="https://www.facebook.com/t.rca.79"><i class="fa-brands fa-facebook"></i></a>
+	  </div>
+	  </div>
+	  </section>
+	    
+	  
+	  <section class="cards" id="services">
+	  <h2 class="title">Services</h2>
+	  <div class="content">
+	  <div class="card">
+	  <div class="icon">
+     <i class="fa-solid fa-passport"></i>
+	  </div>
+	  <div class="info">
+	  <h3>NOTRE IDENTITE</h3>
+	  <p>ETAF est spécialisée dans le négoce de produits métallurgiquesdestinés essentiellement à la construction métallique, à l’industrie mécanique, à l’artisanat, à l’agriculture, aux travaux publics…
+
+ETAF dispose d’un important réseau de fournisseurs de premier ordre et offre en permanence une large gamme de produits adaptés aux besoins des professionnels, dans un souci constant de qualité, de performance, et de compétitivité.
+
+Qu’il s’agisse d’importation ou d’achat local, les produits sont stockés dans des magasins aménagés spécialement pour accueillir tous types d’articles tout en respectant les règles de sécurité liées à la manutention et à l’entreposage.
+
+ETAF dispose par ailleurs d’un atelier spécialisé dans le planage et le découpage des tôles sur mesure.
+
+ETAF offre à ses clients la possibilité de s’approvisionner au Maroc directement auprès d’un fournisseur national tout en neutralisant les risques liés au change, au transport maritime et à la manutention portuaire.
+
+Par ailleurs, elle leur permet de garantir une meilleure qualité, d’assurer la sécurité de leurs approvisionnements, d’optimiser leurs stocks, de réduire leurs frais financiers et de maîtriser les délais de leurs livraisons. 
+</p>
+	  </div>
+	  </div>
+	   <div class="card">
+	  <div class="icon">
+	 <i class="fa-solid fa-bars-progress"></i>
+	  </div>
+	  <div class="info">
+	  <h3>NOTRE SYSTEME DE MANAGEMENT DE LA QUALITE</h3>
+	  <p>
+Depuis la création de l’entreprise en 1984, la qualité a toujours occupé une place importante dans ses activités. En effet, le respect des exigences des clients et leur satisfaction ont été et demeurent toujours des objectifs incontournables à atteindre moyennant la livraison de produits et services répondant à leurs attentes, leur écoute permanente et l’amélioration continue des processus internes qui composent notre système de management de la qualité.
+Les efforts poursuivis pour l’amélioration continue des performances ont été reconnus et attestés par la certification du système de management de la qualité suivant la norme ISO 9001, pour la première fois en 2004 sous la version 2000, puis en 2010 sous la version 2008 et en 2016 sous la version 2015 actuellement en vigueur. Ces certifications successives accomplies en parallèle avec l’évolution de ladite norme font d’ETAF un des précurseurs dans le domaine du mangement de la qualité.</p>
+	  </div>
+	  </div>
+	   <div class="card">
+	  <div class="icon">
+      <i class="fa-regular fa-music"></i>
+	  </div>
+	  <div class="info">
+	  <h3>marketing</h3>
+	  <p>Marketing is the process of exploring, creating, and delivering value to meet the needs of a target market in terms of goods and services;[1][2] potentially including selection of a target audience; selection of certain attributes or themes to emphasize in advertising; operation of advertising campaigns; attendance at trade shows and public events; design of products and packaging attractive to buyers; defining the terms of sale, such as price, discounts, warranty, and return policy; product placement in media or with people believed to influence the buying habits of others; agreements with retailers, wholesale distributors, 
+	  or resellers; and attempts to create awareness of, loyalty to, and positive feelings about a brand</p>
+	  </div>
+	  </div>
+	  
+	  </section>
+	  <section class="projects" id="projects">
+	  
+	  </section>
+	  
+	  <section class="projects" id="projects">
+	  <h2 class="title">Produit</h2>
+	  <div class="content">
+	  <div class="project-card">
+	  <div class="project-image">
+	  <img src="4.jpeg"/>
+	  </div>
+	  <div class="project-info">
+	  <p class="project-category">Les côtes sont exprimées en millimètre et se mesurent à l'extérieur du profil.
+Pour les fers à Tés en aciers:
+Hauteur x Largeur x Epaisseur
+Pour sélectionner une longueur, entrez une valeur entre 0 et 300 centimètres.</p>
+	  <strong class="project-title">
+	  <span>FER À TES</span>
+	  <a href="https://etaf.ma/fer-a-tes/" class="more-details">More details</a>
+	  </strong>
+	  </div>
+	  </div>
+	   <div class="project-card">
+	  <div class="project-image">
+	  <img src="2.jpeg"/>
+	  </div>
+	  <div class="project-info">
+	  <p class="project-category">Cornière ou jointure cornière. Chéneau de tuiles, de zinc ou de plomb à la jonction de deux combles. 
+	  La cornière de l'ouest commençait à se dégrader (Châteaubriant ds Lar. Lang. fr.).</p>
+	  <strong class="project-title">
+	  <span>CORNIERÈS</span>
+	  <a href="https://etaf.ma/corniere-a-ailes-egales/" class="more-details">More details</a>
+	  </strong>
+	  </div>
+	  </div>
+	   <div class="project-card">
+	  <div class="project-image">
+	  <img src="1.jpeg"/>
+	  </div>
+	  <div class="project-info">
+	  <p class="project-category">Le fer rond en acier est un outil performant qui joue un rôle essentiel dans la réalisation des travaux en matière de bâtiment.</p>
+	  <strong class="project-title">
+	  <span>FER ROND</span>
+	  <a href="https://etaf.ma/fer-rond-serrurier/" class="more-details">More details</a>
+	  </strong>
+	  </div>
+	  </div>
+	   <div class="project-card">
+	  <div class="project-image">
+	  <img src="3.jpeg"/>
+	  </div>
+	  <div class="project-info">
+	  <p class="project-category">Le fer plat est utilisé dans de nombreux domaines pour la réalisation de structures métalliques, de renforts ou encore de mobiliers. Fabriqué par laminage à chaud, son acier est facile à mettre en forme, il est donc idéal pour la forge. En fer brut, ce plat s’inclura parfaitement dans toutes vos réalisations en fer forgé.
+	  Percer, visser, souder, couper, plusieurs options s’offrent à vous pour le travailler.</p>
+	  <strong class="project-title">
+	  <span>FER PLAT</span>
+	  <a href="https://etaf.ma/fer-plat/" class="more-details">More details</a>
+	  </strong>
+	  </div>
+	  </div>
+	  </div>
+	  </section>
+	  <section class="cards contact" id="contact">
+	  <h2 class="title">let s work together</h2>
+	  <div class="content">
+	  <div class="card">
+	  <div class="icon">
+	 <i class="fa-solid fa-phone"></i>
+	  </div>
+	  <div class="info">
+	  <h3> Phone</h3>
+	  <p> +212 522 66 00 16/17/18/19</p>
+	  </div>
+	  <div class="card">
+	  <div class="icon">
+	  <i class="fa-solid fa-at"></i>
+	  </div>
+	  <div class="info">
+	  <h3>Email</h3>
+	  <p>etaf@etaf.ma</p>
+	  </div>
+	  <div class="card">
+	  <div class="icon">
+	<i class="fa-solid fa-map-location-dot"></i>
+	  </div>
+	  <div class="info">
+	  <h3> adresse</h3>
+	  <p>Siège Social: 12, Rue Jilali Ghafiri, 
+	  Aïn Sebaâ 20250 - Casablanca - Maroc</p>
+	  </div>
+	  </div>
+	  </div>
+	  </section>
+	  
+	  <footer class="footer">
+	  <p class="footer-title">Copyrights  2022 @ <span>Tous droits réservés.</span></p>
+	  <div class="social-icons">
+	  <a href="#"><i class="fa-brands fa-facebook"></i></a>
+	  <a href="#"><i class="fa-brands fa-instagram"></i></a>
+	   <a href="#"><i class="fa-brands fa-twitter"></i></a>
+	     <a href="#"> <i class="fa-brands fa-youtube"></i></a>
+	  </div>
+	  </footer>
+	  
+	  
+	  </body>
+	  </html>
